@@ -188,6 +188,7 @@ MTD for Income Tax Self Assessment (ITSA) begins for sole traders and landlords 
 | QuickBooks | Accounting | No | MTD-ready accounting |
 | Tradify | Job Management | Trial | Multi-job team management |
 | HMRC App | Tax | Free | Check Self Assessment and NI |
+| [FieldServiceScout](https://www.fieldservicescout.com/) | Software comparison | Free | Independent FSM comparison (Jobber, Housecall Pro, ServiceTitan peers) |
 
 ---
 
